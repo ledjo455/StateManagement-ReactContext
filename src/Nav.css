@@ -1,0 +1,13 @@
+.navbar {
+  background-color: rgb(50, 3, 139);
+  color: white;
+  font-size: large;
+  height: 7vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.navbar > h5:hover {
+  color: gold;
+}
